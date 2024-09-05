@@ -2,3 +2,5 @@
 node_modules/
 smdpro-backend/node_modules/
 smdpro-frontend/node_modules/
+smdpro-backend/.env
+smdpro-frontend/.env
